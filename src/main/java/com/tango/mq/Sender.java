@@ -13,7 +13,7 @@ import org.apache.activemq.ActiveMQConnectionFactory;
 public class Sender { 
     private static final int SEND_NUMBER = 5; 
  
-    //添加测试
+    //添加测试 测试是否正式提交
     public static void main(String[] args) { 
         // ConnectionFactory ：连接工厂，JMS 用它创建连接 
         ConnectionFactory connectionFactory; // Connection ：JMS 客户端到JMS 
